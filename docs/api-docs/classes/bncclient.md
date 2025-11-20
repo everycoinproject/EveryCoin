@@ -7,7 +7,7 @@ The BNB Beacon Chain client.
 
 * **BncClient**
 
-## Indexd
+## Index
 
 ### Constructors
 
