@@ -3,7 +3,7 @@ import { checkAddress, decodeAddress } from "../../crypto"
 import {
   TransferInClaim,
   ClaimMsg,
-  ClaimTypes,
+  ClaimTypes,d
   TransferOutRefundClaim,
   BindMsg,
   BaseMsg,
