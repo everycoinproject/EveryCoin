@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="170x" src="bled.png" />
+  <img height="170x" src="btc.png" />
 
   <h1>EveryCoin</h1>
 
@@ -1140,3 +1140,4 @@ Special thanks to the pioneering work of:
   <p><strong>EveryCoin: One Asset. Every Chain. Infinite Possibilities.</strong></p>
   <p>Building the future of interoperable finance.</p>
 </div>
+
